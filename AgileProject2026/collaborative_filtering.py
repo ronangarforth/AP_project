@@ -127,5 +127,5 @@ def recommend_for_user(target_user, number_of_recommendations=10):
     )
 
 
-# Test the improved recommendation system
+# Test the improved recommendations system
 recommend_for_user(1)
